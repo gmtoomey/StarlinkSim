@@ -1,14 +1,6 @@
 # StarlinkSim
 
-OpenDPS
-Give your DPS5005 the upgrade it deserves
+1.2 Introduction
+A satellite constellation comprises a large number of artificial satellites put in orbit for some common purpose. The satellites are often of the same design so the orbits, coverage, communications and control are co-ordinated. There will be a radio communication link from each satellite to ground stations on Earth, and some constellations support communication between satellites either by radio or optical laser. Most constellations are used for consumer or subscriber internet access.
+Satellite communication to Earth is in the microwave range of the electromagnetic spectrum, mostly 1GHz to 75 GHz. The various bands are named, and satellites most often use the L band (1-2 GHz), Ku (12-18 GHz), K band (18-27 GHz), Ka (26.5–40 GHz) and V band (50-75 GHz). Since water vapour in clouds has a resonant frequency of 22.4GHz this frequency is not used. Dubois (2017) lists nine constellations of communication satellites under development. These are summarised in Table 1.1.
 
-OpenDPS is a FOSS firmware replacement for the DPS5005 (and DPS3003, DPS3005, DPS5015, DP50V5A and possibly others) that has the same functionality, has a less cluttered user interface and is remote controllable via wifi (ESP8266) or via a serial port.
-
-A DPS5005 with wifi
-
-There are three accompanying blog posts you might find of interest:
-
-    Part one covers the reverse engineering of the DPS5005.
-    Part two describes the design of OpenDPS.
-    Part three covers the process of upgrading stock DPS5005:s to OpenDPS.
