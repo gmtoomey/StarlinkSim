@@ -1,6 +1,6 @@
 # StarlinkSim
 
-#1.2 Introduction
+# 1.2 Introduction
 
 
 A satellite constellation comprises a large number of artificial satellites put in orbit for some common purpose. The satellites are often of the same design so the orbits, coverage, communications and control are co-ordinated. There will be a radio communication link from each satellite to ground stations on Earth, and some constellations support communication between satellites either by radio or optical laser. Most constellations are used for consumer or subscriber internet access.
